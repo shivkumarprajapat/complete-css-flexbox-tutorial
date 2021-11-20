@@ -23,7 +23,7 @@
 [container]: ./images/container.svg "container"
 [flex-direction]: ./images/flex-direction.svg "flex-direction"
 [flex-wrap]: ./images/flex-wrap.png "flex-wrap"
-[flex flow]: ./images/flex-flow.png "flex-flow"
+[flex-flow]: ./images/flex-flow.png "flex-flow"
 [justify-content]: ./images/justify-content.svg "justify-content"
 [align-items]: ./images/align-items.svg "align-items"
 [align-content]: ./images/align-content.svg "align-content"

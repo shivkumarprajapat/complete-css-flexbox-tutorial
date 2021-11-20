@@ -7,6 +7,7 @@
 - [Justify Content](#justify-content)
 - [Align Items](#align-items)
 - [Align Content](#align-content)
+- [FlexBox Box Layout](#flexBox-box-layout)
 
 ## Flex item properties
 
@@ -17,16 +18,17 @@
 - [Flex](#flex)
 - [Align Self](#align-self)
 
-
 Flex Box Images: 
 
-[container]: https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg "container"
-[flex-direction]: https://css-tricks.com/wp-content/uploads/2018/10/flex-direction.svg "flex-direction"
-[justify-content]: https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg "justify-content"
-[align-items]: https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg "align-items"
-[align-content]: https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg "align-content"
-[order]: https://css-tricks.com/wp-content/uploads/2018/10/order.svg "order"
-[align-self]: https://css-tricks.com/wp-content/uploads/2018/10/align-self.svg "align-self"
+
+[container]: ./images/container.svg "container"
+[flex-direction]: ./images/flex-direction.svg "flex-direction"
+[justify-content]: ./images/justify-content.svg "justify-content"
+[align-items]: ./images/align-items.svg "align-items"
+[align-content]: ./images/align-content.svg "align-content"
+[order]: ./images/order.svg "order"
+[align-self]: ./images/align-self.svg "align-self"
+[layout]: ./images/layout.png "layout"
 
 
 ### Display
@@ -157,3 +159,8 @@ flex: property-name;
     stretch;
 
 ![alt text][align-self]
+
+
+## FlexBox Box Layout
+
+![alt text][layout]

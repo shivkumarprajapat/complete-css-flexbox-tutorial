@@ -18,18 +18,24 @@
 - [Flex](#flex)
 - [Align Self](#align-self)
 
-Flex Box Images: 
 
 
 [container]: ./images/container.svg "container"
 [flex-direction]: ./images/flex-direction.svg "flex-direction"
+[flex-wrap]: ./images/flex-wrap.png "flex-wrap"
+[flex flow]: ./images/flex-flow.png "flex-flow"
 [justify-content]: ./images/justify-content.svg "justify-content"
 [align-items]: ./images/align-items.svg "align-items"
 [align-content]: ./images/align-content.svg "align-content"
-[order]: ./images/order.svg "order"
-[align-self]: ./images/align-self.svg "align-self"
 [layout]: ./images/layout.png "layout"
 
+
+[order]: ./images/order.svg "order"
+[flex-grow]: ./images/flex-grow.svg "flex-grow"
+[flex shrink]: ./images/flex-shrink.png "flex-shrink"
+[flex basis]: ./images/flex-basis.png "flex-basis"
+[flex]: ./images/flex.jpg "flex"
+[align-self]: ./images/align-self.svg "align-self"
 
 ### Display
 
@@ -59,6 +65,8 @@ flex-wrap: property-name;
     wrap
     wrap-reverse
 
+![alt text][flex-wrap]
+
 ### Flex Flow
 
 flex-flow: property-name;
@@ -66,6 +74,8 @@ flex-flow: property-name;
     nowrap
     wrap
     wrap-reverse
+
+![alt text][flex-flow]
 
 ### Justify Content
 
@@ -79,6 +89,7 @@ justify-content: property-name;
     space-evenly
 
 ![alt text][justify-content]
+
 ### Align Items
 
 align-items: property-name;
@@ -102,6 +113,7 @@ align-content: property-name;
     stretch    
 
 ![alt text][align-content]
+
 ### Order
 
 order: property-name;
@@ -111,7 +123,7 @@ order: property-name;
      order: 5;
      /* default is 0 */
 
-![alt text][[order]]
+![alt text][order]
 
 ### Flex Grow
 
@@ -122,7 +134,9 @@ flex-grow: property-name;
     3
     4
     5
-    
+
+![alt text][flex-grow]    
+
 ### Flex Shrink
 
 flex-shrink: property-name;
@@ -132,12 +146,15 @@ flex-shrink: property-name;
     3
     4
     5  
-    
+![alt text][flex shrink]   
+
 ### Flex Basis
 
 flex-basic: property-name;
 
     flexBasis="200px"
+
+![alt text][flex basis]    
  
 ### Flex
 
@@ -146,7 +163,9 @@ flex: property-name;
     1
     2
     3
-    
+
+![alt text][flex]
+
 ### Align Self
 
 [align-self]: property-name;
@@ -159,7 +178,6 @@ flex: property-name;
     stretch;
 
 ![alt text][align-self]
-
 
 ## FlexBox Box Layout
 
